@@ -1,5 +1,7 @@
 # Virtual DuPSUG 🍂 – Autumn Edition
 
+![2020-07-09_VirtualDuPSUG5](https://user-images.githubusercontent.com/12744735/95777935-67892b00-0cc7-11eb-8f65-087574a681d0.png)
+
 This is a virtual edition of our user group, with a special focus on PowerShell Developer technologies, Azure and of course a deep dive into PowerShell. We have made the decision to host this event virtually again, and we are excited to be able to open up our local user group to the global stage! We have an evening with diverse and advanced topics prepared for you presented by experienced speakers. Registration through Eventbrite is optional, with the benefit that you’ll receive an email notification with the streaming link and a calendar invite.
 
 The sessions will be recorded and will be published to our YouTube channel: DuPSUG on YouTube
